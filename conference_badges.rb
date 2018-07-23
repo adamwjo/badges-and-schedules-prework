@@ -13,6 +13,6 @@ def batch_badge_creator(array_of_names)
   names
 end
 
-def assigned
-
+def assign_rooms(speakers)
+  
 end
